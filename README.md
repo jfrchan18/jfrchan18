@@ -2,16 +2,16 @@
 
  **Electrical Engineer | Data Engineer & Analyst**
  
-I design, build, and optimize data pipelines using different data enginnering tools. In addition, I create visualizations and dashboards for data-driven decision making.
+I design, build, and optimize data pipelines using different data enginnering tools. In addition, I create dashboards that monitor key metrics, optimize workflows, and support real-time decision making.
 
 ---
 
 ## About Me
 
-  - Experienced with ETL/ELT pipelines, Data Vault implementations, and metadata orchestration
-  - Build automated data solutions for analytics teams
-  - Transform raw data into actionable business insights
-  - Passionate about mentoring, helping data professionals grow their skills
+  - Experienced in designing and building ETL pipelines using Python, Airflow, Docker, and PostgreSQL
+  - Develop automated data solutions that streamline workflows and support analytics teams
+  - Create clear, insightful dashboards in Power BI to transform raw data into actionable insights
+  - Passionate about continuous learning and sharing knowledge in data engineering and analytics
 
 ---
 
