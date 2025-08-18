@@ -8,11 +8,10 @@ I design, build, and optimize data pipelines using different data enginnering to
 
 ## About Me
 
-  - Experienced in AWS Cloud and Snowflake**
-  - Skilled in ETL/ELT pipelines, Data Vault, and metadata-driven solutions
-  - Community leader at Data Engineering Philippines
+  - Experienced with ETL/ELT pipelines, Data Vault implementations, and metadata orchestration
+  - Build automated data solutions for analytics teams
+  - Transform raw data into actionable business insights
   - Passionate about mentoring, helping data professionals grow their skills
-  - Currently an AWS Data Tech Lead
 
 ---
 
